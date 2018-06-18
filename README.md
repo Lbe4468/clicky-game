@@ -1,10 +1,9 @@
 # Clicky Game
 
 ## Overview
-This is a simple but addictive (and serverless) memory game built using React. It relies and CSS animations and the app's state to shuffle around the images available for clicking. 
+This is a simple yet fun memory game built using React. It relies and CSS animations and the app's state to shuffle around the images available for clicking. 
 
-See a live example here: []
-(). Please enjoy!
+View the GitHub repo here: [https://github.com/Lbe4468/clicky-game]
 
 ### Technologies Used:
 1. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app), and so requires npm/yarn.
@@ -15,7 +14,7 @@ To use this application:
 
 1. Clone this repo to your local machine:
 ```
-git clone 
+git clone https://github.com/Lbe4468/clicky-game.git
 ```
 2. Open the repo and execute the following in the bash terminal. Doing so should install the required packages/dependencies:
 ```
