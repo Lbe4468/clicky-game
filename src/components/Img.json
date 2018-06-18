@@ -1,0 +1,82 @@
+[   
+    {
+        "name": "angelfish",
+        "url": "./images/angelfish.jpg"
+    },
+    {
+        "name": "blowfish",
+        "url": "./images/blowfish.jpg"
+    },
+    {
+        "name": "coral",
+        "url": "./images/coral.jpg"
+    },
+    {
+        "name": "crab",
+        "url": "./images/crab.jpg"
+    },
+    {
+        "name": "dollarshell",
+        "url": "./images/dollar-shell.jpg"
+    },
+    {
+        "name": "dolphin",
+        "url": "./images/dolphin.jpg"
+    },
+    {
+        "name": "jellyfish",
+        "url": "./images/jellyfish.jpg"
+    },
+    {
+        "name": "lobster",
+        "url": "./images/lobster.jpg"
+    },
+    {
+        "name": "mantaray",
+        "url": "./images/manta-ray.jpg"
+    },
+    {
+        "name": "seahorse",
+        "url": "./images/seahorse.jpg"
+    },
+    {
+        "name": "seasnail",
+        "url": "./images/seasnail.jpg"
+    },
+    {
+        "name": "seaturtle",
+        "url": "./images/sea-turtle.jpg"
+    },
+    {
+        "name": "shark",
+        "url": "./images/shark.jpg"
+    },
+    {
+        "name": "shrimp",
+        "url": "./images/shrimp.jpg"
+    },
+    {
+        "name": "spikeything",
+        "url": "./images/spikey-thing.jpg"
+    },
+    {
+        "name": "squid",
+        "url": "./images/squid.jpg"
+    },
+    {
+        "name": "starfish",
+        "url": "./images/starfish.jpg"
+    },
+    {
+        "name": "swordfish",
+        "url": "./images/swordfish.jpg"
+    },
+    {
+        "name": "walrus",
+        "url": "./images/walrus.jpg"
+    },
+    {
+        "name": "whale",
+        "url": "./images/whale.jpg"
+    }
+]
