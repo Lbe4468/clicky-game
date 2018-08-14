@@ -1,7 +1,7 @@
 # Clicky Game
 
 ## Overview
-This is a simple yet fun memory game built using React. It relies and CSS animations and the app's state to shuffle around the images available for clicking. 
+This is a simple yet fun memory game built using React. It relies on CSS animations and the app's state to shuffle around the images available for clicking. 
 
 View the GitHub repo here: [https://github.com/Lbe4468/clicky-game]
 
